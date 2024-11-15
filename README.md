@@ -41,20 +41,20 @@ This project provides various beginner-friendly machine learning algorithms impl
 - **README.md**: The file you are currently reading, with setup and usage instructions.
 
 
-### Quick Start
+## Quick Start
 
-1.Open any Jupyter Notebook in the notebooks/ folder.
-2.Follow the instructions and run each cell step-by-step.
-3.Experiment with the code to learn and improve your understanding of machine learning.
+1. Open any Jupyter Notebook in the notebooks/ folder.
+2. Follow the instructions and run each cell step-by-step.
+3. Experiment with the code to learn and improve your understanding of machine learning.
 
 
-### How to Contribute
+## How to Contribute
 
-1.We welcome contributions! Here's how you can help improve this project:
-2.Fork the repository: Click on the "Fork" button at the top-right of the repository page.
-3.Make your changes: Clone your fork and make improvements, bug fixes, or add new features.
-4.Submit a pull request: Once you’ve made your changes, open a pull request (PR) to propose them.
-5.Please make sure your code adheres to the project's style guidelines.
+1. We welcome contributions! Here's how you can help improve this project:
+2. Fork the repository: Click on the "Fork" button at the top-right of the repository page.
+3. Make your changes: Clone your fork and make improvements, bug fixes, or add new features.
+4. Submit a pull request: Once you’ve made your changes, open a pull request (PR) to propose them.
+5. Please make sure your code adheres to the project's style guidelines.
 
 
 ## Contact
