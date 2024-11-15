@@ -2,7 +2,7 @@
 
 Welcome to the Machine Learning project repository! This repository contains beginner-friendly code examples, explanations, and hands-on exercises to help you get started on your machine learning journey.
 
-<img src="[path/to/welcome-gif.gif" width="800px"](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZvbTR4OXYzejQwNDZnNGU0N3M1M2xyZ2RyNW5hd3h1ZzNiMXdlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/URpHvLF4KFfmFKM3CA/giphy.webp)> <!-- Replace with actual file path -->
+![Welcome GIF](path/to/welcome-gif.gif) <!-- Replace with actual file path -->
 
 ## Table of Contents
 
@@ -12,7 +12,6 @@ Welcome to the Machine Learning project repository! This repository contains beg
 - [Project Overview](#project-overview)
 - [Contents](#contents)
 - [Quick Start](#quick-start)
-- [Examples](#examples)
 - [How to Contribute](#how-to-contribute)
 - [Contact](#contact)
 
