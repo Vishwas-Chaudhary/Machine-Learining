@@ -2,21 +2,17 @@
 
 Welcome to the Machine Learning project repository! This repository contains beginner-friendly code examples, explanations, and hands-on exercises to help you get started on your machine learning journey.
 
-![Welcome GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZvbTR4OXYzejQwNDZnNGU0N3M1M2xyZ2RyNW5hd3h1ZzNiMXdlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/URpHvLF4KFfmFKM3CA/giphy.webp) <!-- Replace with actual file path -->
+<img src="[path/to/welcome-gif.gif" width="800px"](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZvbTR4OXYzejQwNDZnNGU0N3M1M2xyZ2RyNW5hd3h1ZzNiMXdlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/URpHvLF4KFfmFKM3CA/giphy.webp)> <!-- Replace with actual file path -->
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-  - [Clone the Repository](#clone-the-repository)
-  - [Create a Virtual Environment (Optional)](#create-a-virtual-environment-optional)
-  - [Install Dependencies](#install-dependencies)
 - [Project Overview](#project-overview)
 - [Contents](#contents)
 - [Quick Start](#quick-start)
 - [Examples](#examples)
-- [Folder Structure](#folder-structure)
 - [How to Contribute](#how-to-contribute)
 - [Contact](#contact)
 
@@ -35,10 +31,7 @@ Basic understanding of programming concepts is helpful, but no prior machine lea
 
 ## Installation
 
-### Clone the Repository
-
-First, clone this repository to your local machine using the following command:
-
-```bash
-git clone https://github.com/Vishwas-Chaudhary/Machine-Learining.git
-cd Machine-Learining
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Vishwas-Chaudhary/Machine-Learining.git
+   cd Machine-Learining
