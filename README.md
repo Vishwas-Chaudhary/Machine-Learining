@@ -8,12 +8,12 @@ Welcome to the Machine Learning project repository! This repository contains beg
 
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Project Overview](#project-overview)
 - [Contents](#contents)
 - [Quick Start](#quick-start)
 - [How to Contribute](#how-to-contribute)
 - [Contact](#contact)
+- [Installation](#installation)
 
 ## Introduction
 
@@ -28,16 +28,11 @@ Before you start, make sure you have the following installed:
 
 Basic understanding of programming concepts is helpful, but no prior machine learning knowledge is needed!
 
-## Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Vishwas-Chaudhary/Machine-Learining.git
-   cd Machine-Learining
-   
 ## Project Overview
 
 This project provides various beginner-friendly machine learning algorithms implemented in Python. It includes practical exercises that help you understand concepts such as data preprocessing, building models, and evaluating algorithms like Linear Regression, KNN, and more. This is a great resource for anyone starting their machine learning journey.
+
 
 ## Contents
 
@@ -45,11 +40,13 @@ This project provides various beginner-friendly machine learning algorithms impl
 - **requirements.txt**: A list of required libraries for this project.
 - **README.md**: The file you are currently reading, with setup and usage instructions.
 
+
 ## Quick Start
 
 1.Open any Jupyter Notebook in the notebooks/ folder.
 2.Follow the instructions and run each cell step-by-step.
 3.Experiment with the code to learn and improve your understanding of machine learning.
+
 
 ## How to Contribute
 
@@ -59,14 +56,21 @@ This project provides various beginner-friendly machine learning algorithms impl
 4.Submit a pull request: Once you’ve made your changes, open a pull request (PR) to propose them.
 5.Please make sure your code adheres to the project's style guidelines.
 
+
 ## Contact
 
 For any questions, feel free to reach out to me through GitHub.
 Happy Learning! 🎉
 
+
 ### Key Points Added:
 1. **Quick Start**: This section guides users on how to get started with the project quickly.
 2. **How to Contribute**: It explains how others can fork the repo, make changes, and submit a pull request.
-
 Let me know if you'd like further changes!
 
+
+## Installation
+Clone the repository:
+```bash
+   git clone https://github.com/Vishwas-Chaudhary/Machine-Learining.git
+   cd Machine-Learining
