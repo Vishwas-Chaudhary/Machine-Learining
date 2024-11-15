@@ -9,9 +9,14 @@ Welcome to the Machine Learning project repository! This repository contains beg
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
+  - [Clone the Repository](#clone-the-repository)
+  - [Create a Virtual Environment (Optional)](#create-a-virtual-environment-optional)
+  - [Install Dependencies](#install-dependencies)
 - [Project Overview](#project-overview)
 - [Contents](#contents)
 - [Quick Start](#quick-start)
+- [Examples](#examples)
+- [Folder Structure](#folder-structure)
 - [How to Contribute](#how-to-contribute)
 - [Contact](#contact)
 
@@ -30,7 +35,10 @@ Basic understanding of programming concepts is helpful, but no prior machine lea
 
 ## Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Vishwas-Chaudhary/Machine-Learining.git
-   cd Machine-Learining
+### Clone the Repository
+
+First, clone this repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/Vishwas-Chaudhary/Machine-Learining.git
+cd Machine-Learining
