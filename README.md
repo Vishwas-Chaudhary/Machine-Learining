@@ -2,7 +2,7 @@
 
 Welcome to the Machine Learning project repository! This repository contains beginner-friendly code examples, explanations, and hands-on exercises to help you get started on your machine learning journey.
 
-![Welcome GIF]([path/to/welcome-gif.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZvbTR4OXYzejQwNDZnNGU0N3M1M2xyZ2RyNW5hd3h1ZzNiMXdlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/URpHvLF4KFfmFKM3CA/giphy.webp)) <!-- Replace with actual file path -->
+![Welcome GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZvbTR4OXYzejQwNDZnNGU0N3M1M2xyZ2RyNW5hd3h1ZzNiMXdlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/URpHvLF4KFfmFKM3CA/giphy.webp) <!-- Replace with actual file path -->
 
 ## Table of Contents
 
@@ -34,7 +34,3 @@ Basic understanding of programming concepts is helpful, but no prior machine lea
    ```bash
    git clone https://github.com/Vishwas-Chaudhary/Machine-Learining.git
    cd Machine-Learining
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-pip install -r requirements.txt
-
