@@ -34,3 +34,10 @@ Basic understanding of programming concepts is helpful, but no prior machine lea
    ```bash
    git clone https://github.com/Vishwas-Chaudhary/Machine-Learining.git
    cd Machine-Learining
+
+### Key Points Added:
+1. **Quick Start**: This section guides users on how to get started with the project quickly.
+2. **How to Contribute**: It explains how others can fork the repo, make changes, and submit a pull request.
+
+Let me know if you'd like further changes!
+
